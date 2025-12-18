@@ -15,13 +15,20 @@ This repository provides centralized SCM (Source Control Management) mirroring i
 - [x] Minimal permissions (`read-all`)
 - [x] SSH key authentication via secrets
 
-### Security Hardening (v1.1) - Just Completed
+### Security Hardening (v1.1)
 - [x] SSH known hosts verification (prevents MITM attacks)
 - [x] `persist-credentials: false` (prevents credential leakage)
 - [x] Job timeouts (prevents runaway workflows)
 - [x] Concurrency controls (prevents race conditions)
 - [x] Improved error handling for remote configuration
 - [x] Success confirmation messages
+
+### Promotional Site (v1.2) - Just Completed
+- [x] terrapin-ssg integration for static site generation
+- [x] Logo graphics procedures (hub-and-spoke, tree, gear patterns)
+- [x] AsciiDoc content pages (Home, Plugins, Infrastructure, Roadmap)
+- [x] GitHub Pages deployment workflow
+- [x] Asciidoctor HTML generation with navigation
 
 ---
 
