@@ -1,1 +1,16 @@
+= asdf-control-tower
+:toc: auto
 
+asdf plugin for AWS Control Tower CLI.
+
+== Installation
+
+[source,bash]
+----
+asdf plugin add control-tower https://github.com/hyperpolymath/asdf-control-tower.git
+asdf install control-tower latest
+----
+
+== License
+
+AGPL-3.0-or-later
