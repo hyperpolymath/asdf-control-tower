@@ -73,6 +73,7 @@ jobs:
             <span class="site-title">asdf-control-tower</span>
             <a href="index.html">Home</a>
             <a href="plugins.html">Plugins</a>
+            <a href="dashboard.html">Dashboard</a>
             <a href="infrastructure.html">Infrastructure</a>
             <a href="roadmap.html">Roadmap</a>
           </nav>

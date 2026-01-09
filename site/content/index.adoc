@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 = hyperpolymath asdf Ecosystem
 :description: A curated collection of asdf plugins for modern development workflows
 :keywords: asdf, version manager, plugins, polyglot, development tools
@@ -14,7 +15,7 @@ https://asdf-vm.com[asdf] is an extendable version manager that supports multipl
 
 * **Quality over quantity** - Each plugin is thoroughly tested and maintained
 * **Security first** - SHA verification, secure downloads, supply chain integrity
-* **Community driven** - Open source under AGPL-3.0-or-later
+* **Community driven** - Open source under MPL-2.0
 * **Multi-platform mirrors** - Available on GitHub, GitLab, Codeberg, and Bitbucket
 
 === Hub-and-Spoke Architecture

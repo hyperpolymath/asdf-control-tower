@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MPL-2.0
 = Plugin Ecosystem Dashboard
 :toc: macro
 :toc-title: Contents
@@ -27,7 +27,7 @@ toc::[]
 | Metadata registry and discovery
 
 | asdf-ui-plugin
-| ⏳ Placeholder
+| ⏳ Planned
 | Visual interface (Tauri/Dioxus)
 
 | asdf-ghjk
@@ -185,5 +185,5 @@ toc::[]
 
 * ✓ = Operational / Passing
 * ⚙️ = In Development
-* ⏳ = Planned / Placeholder
+* ⏳ = Planned
 * ✗ = Failing / Blocked
