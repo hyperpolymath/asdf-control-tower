@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 = Infrastructure
 :description: Technical infrastructure powering the asdf ecosystem
 :keywords: infrastructure, CI/CD, mirroring, automation
@@ -100,5 +101,5 @@ Keys should be generated specifically for mirroring and have write access only t
 === Monitoring
 
 * GitHub Actions logs for each mirror run
-* Success/failure notifications (planned)
-* Centralized dashboard (planned)
+* Success/failure notifications via Slack/Discord (see link:roadmap.html[Roadmap] Phase 3)
+* Centralized status dashboard (see link:dashboard.html[Dashboard])

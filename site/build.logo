@@ -1,4 +1,4 @@
-; SPDX-License-Identifier: AGPL-3.0-or-later
+; SPDX-License-Identifier: MPL-2.0
 ; asdf-control-tower site builder using terrapin-ssg
 ; Generates promotional site for hyperpolymath asdf ecosystem
 
@@ -70,6 +70,12 @@ TO BUILD.SITE
   PAGE "plugins "Plugins [
     PENCOLOR "#059669
     TREE 60 4
+  ]
+
+  ; Dashboard page with grid pattern
+  PAGE "dashboard "Dashboard [
+    PENCOLOR "#0891b2
+    REPEAT 4 [HUB 20 PENUP FORWARD 50 PENDOWN]
   ]
 
   ; Infrastructure page with gear
